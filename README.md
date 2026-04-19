@@ -32,7 +32,7 @@ Uygulamanın farklı durumlarını (States) aşağıdaki tabloda görebilirsiniz
 
 | Yükleme Ekranı | Ana Liste | Arama Özelliği | Hata Yönetimi |
 | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/c9bb6ddd-5731-4926-9d8c-0bd4ca401cbb" width="200" /> | <img src="https://github.com/user-attachments/assets/373c308e-e334-4cd6-b7ab-36bb4933437f" width="200" /> | <img src="https://github.com/user-attachments/assets/46d7cbec-d5f8-435a-bf1e-be4e61a532e5" width="200" /> | <img src="https://github.com/user-attachments/assets/4b36643c-5c1d-45b9-8088-586198279b7c" width="200" /> |
+| <img src="https://github.com/user-attachments/assets/c9bb6ddd-5731-4926-9d8c-0bd4ca401cbb" width="200" height="430" /> | <img src="https://github.com/user-attachments/assets/373c308e-e334-4cd6-b7ab-36bb4933437f" width="200" height="430" /> | <img src="https://github.com/user-attachments/assets/46d7cbec-d5f8-435a-bf1e-be4e61a532e5" width="200" height="430" /> | <img src="https://github.com/user-attachments/assets/4b36643c-5c1d-45b9-8088-586198279b7c" width="200" height="430" /> |
 
 ---
 
